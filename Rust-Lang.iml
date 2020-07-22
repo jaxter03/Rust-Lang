@@ -6,7 +6,17 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/rust-by-example/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/rust-book/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/rust-by-example/Formated-Print/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/rust-by-example/Tuple/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/rust-by-example/Array_Slice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/rust-by-example/Structure/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/rust-by-example/Enums/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust-book/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/rust-by-example/Array_Slice/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/rust-by-example/Enums/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/rust-by-example/Formated-Print/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/rust-by-example/Structure/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/rust-by-example/Tuple/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/rust-by-example/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
